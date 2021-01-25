@@ -31,3 +31,7 @@
 {"name":"COMPENDIUM","type":"Item","sort":1000000,"flags":{},"parent":null,"sorting":"a","color":"#e26565","_id":"wyMUPpejTLfENHzw"}
 {"_id":"xyHG3ZPf0olgBp6k","name":"Weapon","type":"Item","sort":3000000,"flags":{},"parent":"wyMUPpejTLfENHzw","sorting":"a","color":"#603611"}
 {"_id":"zUWM8AsYRC0DND75","name":"Skill","type":"Item","sort":1700000,"flags":{},"parent":"Lu7RsQRRv2dsSQrf","sorting":"a","color":""}
+{"name":"Toolbox","type":"Item","sort":3800000,"flags":{},"parent":"0e9SGynwGzQns3Qj","sorting":"a","color":"","_id":"k5x4xd62HRBlPEYa"}
+{"name":"Firearms","type":"Item","sort":3900000,"flags":{},"parent":"xyHG3ZPf0olgBp6k","sorting":"a","color":"","_id":"LyufmDPJDqG7ipE5"}
+{"name":"Brawling","type":"Item","sort":4000000,"flags":{},"parent":"xyHG3ZPf0olgBp6k","sorting":"a","color":"","_id":"a54ZZf6xo9Wo8dpj"}
+{"name":"Teamwork","type":"Item","sort":4100000,"flags":{},"parent":"xyHG3ZPf0olgBp6k","sorting":"a","color":"","_id":"3y3d43qxTUUKYYGU"}
